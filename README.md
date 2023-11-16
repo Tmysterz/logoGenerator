@@ -47,3 +47,7 @@
 
   if you have any questions about the repo, Please feel free to open a issue or contact me directly at terrencemccarthysnkrs@gmail.com
   You can find more of my work at https://github.com/Tmysterz
+
+  ## Walk through Video 
+
+  https://drive.google.com/file/d/1G2dnYpE1My5Pquqo0G38w_FQkk_Bu3CJ/view
